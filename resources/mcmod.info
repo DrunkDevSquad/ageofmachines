@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ageofmachines",
+  "name": "Age Of Machines",
+  "description": "Adds lots of multiblock structures, early/mid/late-game stuff, new ores, and mechanics.",
+  "version": "1.7.10-0.1-alpha",
+  "mcversion": "1.7.10",
+  "url": "Developers' mail drunkdevsquadofficial@gmail.com",
+  "updateUrl": "",
+  "authorList": ["DrunkDevSquad: WillyWonderer - code; Ghul - textures"],
+  "credits": "Special thanks for some ideas: Dog",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
